@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar
+SOURCE_SUM=78f98998d022e6052294717f804a0ffe52de058b9cb5e888ed27efdbc03f8cda
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
-SOURCE_EXTRACT=true
+SOURCE_FORMAT=jar
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=Lavalink.jar
+SOURCE_EXTRACT=false
